@@ -1,0 +1,16 @@
+.custom-class{
+  background-color  : gray;
+  color             : white;
+  font-weight       : bold;
+}
+.pasivo-class{
+  background-color  : red;
+  color             : white;
+  font-weight       : bold;
+
+}
+.default-color{
+  background-color  : green;
+  color             : white;
+  font-weight       : bold;
+}	
