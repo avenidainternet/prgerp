@@ -1,0 +1,46 @@
+.textocuerpo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+}
+.titulocuerpo {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: 800;
+	color: #666666;
+}
+.txtcuadroserv {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: 500;
+}
+.linkcuadro {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #006699;
+}
+.menupadre {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CCCCCC;
+	font-weight: 700;
+}
+.menuactual {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #003366;
+	font-weight: 700;
+}
+.subtitulocuerpo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	color: #666666;
+}
+.serviciosrelacionados {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: 800;
+	color: #006699;
+}

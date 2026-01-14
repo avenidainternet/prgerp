@@ -1,0 +1,42 @@
+#CuerpoMenuLateral{
+	width					: 100%;
+	margin					: 0;
+	border					: 0px solid #aaa;
+	border-radius			: 0px 0px 0px 0px;
+	box-shadow				: 0 0 0px #aaa;
+	-moz-border-radius		: 0px 0px 0px 5px;
+	-moz-box-shadow			: 0 0 0px #aaa; 
+	-webkit-border-radius	: 0px 0px 0px 5px; 
+	-webkit-box-shadow		: 0 0 0px #aaa; 
+	display					: inline;
+	float					: left;
+	/* opacity					: 0.9;  Lo hacemos con opacity */
+}
+#CuerpoMenuLateral ul{
+	padding					: 5px;
+	margin					: 0px;
+	display					: block;
+	list-style				: none;
+	font-family				: Arial, Helvetica, sans-serif;
+}
+#CuerpoMenuLateral a{
+	text-decoration			: none;
+	font-size				: 14px;
+}
+#CuerpoMenuLateral a:hover{
+	text-decoration			: none;
+	opacity					: 0.6; /* Lo hacemos con opacity */
+}
+#EncabezadosTitulosMenuLateral {
+	color					: #fff;
+	background-color		: #003366;
+	margin					: 0px;
+	padding					: 10px;
+	font-size				: 14px;
+	font-family				: Arial, Helvetica, sans-serif;
+	border-radius			: 0px 0px 0px 0px;
+	box-shadow				: 0 0 0px #aaa;
+}
+.bordeDerechoMenu{
+	border-right			: 1px solid #000;
+}

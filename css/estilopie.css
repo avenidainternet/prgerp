@@ -1,0 +1,31 @@
+.subtitulopie {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#FFFFFF;
+}
+.subtitulopie a{
+	text-decoration:none;
+	color: #fff;
+    display: block;
+}
+#subtitulopie a:hover {
+        color: #cccccc;
+}
+.titulopie {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #33CCFF;
+	font-weight: 400;
+}
+.idpie {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+.contador {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: 900;
+	color: #666666;
+}

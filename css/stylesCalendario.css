@@ -1,0 +1,14 @@
+#cuadroMes {
+	font-family			: Arial;
+	font-size			: 12px;
+	border				: 1px solid #000;
+	width				: 500px;
+	margin				: 10px;
+}
+.idMes {
+	font-size			: 18px;
+	color				: #333333;
+	background-color	: #CCCCCC;
+	text-align			: center;
+	padding				: 5px;
+}

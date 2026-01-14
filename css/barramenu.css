@@ -1,0 +1,97 @@
+#icons1 {
+	position: fixed;
+	width: 35%;
+	text-align: center;
+	bottom: 0px;
+	right: 20px;
+	background-color: #ffffff;
+	/* background-image: url(http://i26.servimg.com/u/f26/12/56/56/12/12210.png); */
+	background-repeat: repeat-x;
+	background-position: center left;
+	border: 1px solid #80c9ff;
+	border-bottom: 0px;
+	-moz-border-radius: 8px 8px 0px 0px;
+	-webkit-border-top-left-radius: 8px;
+	-webkit-border-top-right-radius: 8px;
+	box-shadow: 0 0 7px LightGrey;
+	-webkit-box-shadow: 0 0 7px LightGrey;
+	-moz-box-shadow: 0 0 7px LightGrey;
+	z-index: 999;
+}
+.icons img:hover {
+	opacity:0.8;
+}
+
+
+
+
+.iconsz img {
+	margin-top: 0px;	
+	width: auto;
+	height: 28px;
+	background-color: transparent;
+	background-image: url('');
+	background-position: center center;
+	background-repeat: repeat-x;
+	padding: 4px 4px;
+	border: 0px solid #fff;
+	opacity:0.8;
+}
+.iconsz img:hover {
+	background-color: #80c9ff;
+	margin-top: 0px;
+	width: auto;
+	height: 18px;
+	padding: 4px 4px;
+	border: 0px solid #fff;
+}
+#icons1 a small {
+text-align: center;
+width: 150px;
+padding: 2px 0px;
+display: none;
+background-color: #ffffff;
+color: #000000;
+font-weight: bold;
+font-size: 10px;
+font-family: Arial;
+/*background-image: url(http://i26.servimg.com/u/f26/12/56/56/12/12210.png); */
+background-repeat: repeat-x;
+background-position: center left;
+border: 1px solid #80c9ff;
+border-bottom: 0px;
+}
+#icons1 a:hover small {
+display: block;
+position: absolute;
+margin-top: -20px;
+top: 0;
+right: 10px;
+z-index: 999;
+}
+
+
+#icons2 {
+	position: fixed;
+	width: 10%;
+	text-align: center;
+	bottom:0px;
+	left:0px;
+	background-color: #ffffff;
+	/* background-image: url(http://i26.servimg.com/u/f26/12/56/56/12/12210.png); */
+	border: 1px solid #80c9ff;
+	background-repeat: repeat-x;
+	background-position: center left;
+	-moz-border-radius: 0px 0px 8px 8px;
+	border-bottom: 0px;
+	-webkit-border-top-left-radius: 0px;
+	-webkit-border-top-right-radius: 5px;
+	box-shadow: 0 0 7px LightGrey;
+	-webkit-box-shadow: 0 0 7px LightGrey;
+	-moz-box-shadow: 0 0 7px LightGrey;
+	z-index: 999;
+}
+.icons2 img:hover {
+	opacity:0.8;
+}
+

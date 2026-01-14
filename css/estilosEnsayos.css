@@ -1,0 +1,44 @@
+#cajaMuestraEnsayos {
+	width				: 10%;
+	float				: left;
+	margin				: 0px;
+	background-color	: #fff;
+	border				: 1px solid #000;
+	margin				: 5px;
+}
+#cajaMuestraEnsayos .tituloCajaEnsayos{
+	width				: 100%;
+	background-color	: #EBDEDE;
+	text-align			: center;
+	font-family			: Arial;
+	padding-top			: 5px;
+	padding-bottom		: 5px;
+	border-bottom		: 1px solid #000;
+}
+#cajaMuestraEnsayos .desplegarEnsayosOtam {
+	width				: 100%;
+	text-align			: center;
+	font-family			: Arial;
+	padding-top			: 5px;
+	padding-bottom		: 5px;
+}
+#cajaMuestraEnsayos .desplegarEnsayosRegistradosOtam {
+	width				: 100%;
+	background-color	: #7FC5CC;
+	text-align			: center;
+	font-family			: Arial;
+	padding-top			: 5px;
+	padding-bottom		: 5px;
+}
+#cajaMuestraEnsayos .linkEnsayos {
+	list-style			: none;
+	color				: #003366;
+	text-decoration		: none;
+	opacity				: .8;
+}
+#cajaMuestraEnsayos .linkEnsayos :hover {
+	list-style			: none;
+	background-color	: #C6C1C1;
+	color				: #000;
+	opacity				: 1;
+}
