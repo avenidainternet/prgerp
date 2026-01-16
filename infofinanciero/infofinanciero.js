@@ -44,6 +44,15 @@ app.run(function($rootScope){
         },{
             codAgno:2023,
             descripcion:"2023"
+        },{
+            codAgno:2024,
+            descripcion:"2024"
+        },{
+            codAgno:2025,
+            descripcion:"2025"
+        },{
+            codAgno:2026, 
+            descripcion:"2026"
         }
      ];
 
